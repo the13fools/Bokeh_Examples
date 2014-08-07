@@ -1,4 +1,3 @@
-
 This directory contains several examples of Bokeh usage.
 
 plotting
@@ -28,4 +27,6 @@ Notes
  - zoom: this is a scroll wheel zoom
  - pan: left click drag to pan
  - resize left click drag to resize
+
+
 
